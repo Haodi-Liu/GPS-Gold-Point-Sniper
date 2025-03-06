@@ -8,4 +8,8 @@ GPS-code/Data_Generation/inference_llava_next.py
 ```
 # LVLMs Fine-Tuning
 Follow the original repo of LVLMs to deploy model components and datasets, set up environments and launch the training pipeline.
-[LLaVA-NeXT (OV72B, NeXT8B, OV7B)] (https://github.com/LLaVA-VL/LLaVA-NeXT)
+[LLaVA-NeXT (OV72B, NeXT8B, OV7B)](https://github.com/LLaVA-VL/LLaVA-NeXT)
+[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL)
+[MiniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4)
+
+
