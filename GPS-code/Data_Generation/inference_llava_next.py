@@ -113,7 +113,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     # Define the command-line arguments
-    parser.add_argument("--video_path", help="Path to the video files.", default="/training/wphu/Dataset/CAP/cap_classification_clip/videos/person_rides_bicycle/FFDAB3E6-31C2-439E-B0C2-DB9BADDCDB8A_0.mp4", required=False)
+    parser.add_argument("--video_path", help="Path to the video files.", default=".", required=False)
     parser.add_argument("--conv-mode", type=str, default=None)
     parser.add_argument("--for_get_frames_num", type=int, default=5)
     parser.add_argument("--force_sample", type=lambda x: (str(x).lower() == 'true'), default=False)
