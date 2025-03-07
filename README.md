@@ -28,11 +28,11 @@ Follow the original repo of LVLMs to deploy model components and training datase
 
 
 # LVLMs SGPS Structured Prompting
-The corresponding scripts are organized in 
+The scripts prompting various LVLM checkpoints (baseline or fine-tuned) to perform FHAR tasks are organized in 
 ```
 GPS-code/SGPS_infer
 ```
-There is a directory containing scripts of various prompting structure (direct, SGPS, ablated) for each LVLM type.
+There is a directory containing scripts of multiple prompting structures (direct, SGPS, ablated) for each LVLM type.
 # GPSE Multimodal Evaluation
 Comprehensive Visual Understanding Evaluation by OV-72B
 ```
