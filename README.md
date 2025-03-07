@@ -34,12 +34,12 @@ GPS-code/SGPS_infer
 ```
 There is a directory containing scripts of various prompting structure (direct, SPGS, ablated) for each LVLM type.
 # GPSE Multimodal Evaluation
-Comprehensive Visual Understanding Evaluation by OV72B
+Comprehensive Visual Understanding Evaluation by OV-72B
 ```
 GPS-code/GPSE_Eval/OV_eval.py
 ```
 
-Entailment Relationship Evaluation by Llama-3.3-70B
+Entailment Relationship Evaluation by Llama-3.3-70B-Instruct
 Local Running (for free but need local deployment)
 ```
 GPS-code/GPSE_Eval/llama_eval_sum_prop.py
