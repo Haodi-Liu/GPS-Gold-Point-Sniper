@@ -1,4 +1,4 @@
-# GPS: Gold Points Sniper for Fine-Grained Human Action Recognition
+# Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding
 ---
 
 # Data Annotation
