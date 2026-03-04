@@ -49,3 +49,15 @@ Invoking API (cost money but much cheaper than GPT)
 ```
 GPS-code/GPSE_Eval/api_llama_sum_prop.py
 ```
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+
+@inproceedings{liu2026gold,
+  title={Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding},
+  author={Liu, Haodi and Yang, Xinhang and Yan, Kunda and Cui, Sen and Zhang, Zeyu and Zhang, Changshui},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2026}
+}
