@@ -1,0 +1,7 @@
+datasets:
+
+  capvid_frame:
+    data_type: images
+    build_info:
+      image_path: "/raid/hdliu/datasets/cap_vid"
+      ann_path: "/raid/hdliu/datasets/llava/glob_json/cap_videos_14k_frame.json"
